@@ -66,17 +66,17 @@ customer360/
 ## How to run
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib joblib xgboost
+pip3 install pandas numpy scikit-learn matplotlib joblib xgboost
 
-python scripts/01_generate_data.py
-python scripts/02_etl_customer360.py
-python scripts/03_kmeans_segmentation.py
-python scripts/04_churn_models.py
-python scripts/05_xgboost_and_recommendations.py   # requires xgboost + internet
-python scripts/06_export_for_powerbi.py
+python3 scripts/01_generate_data.py
+python3 scripts/02_etl_customer360.py
+python3 scripts/03_kmeans_segmentation.py
+python3 scripts/04_churn_models.py
+python3 scripts/05_xgboost_and_recommendations.py   # requires xgboost + internet
+python3 scripts/06_export_for_powerbi.py
 ```
 
-> Note: `05_xgboost_and_recommendations.py` needs `pip install xgboost`, which
+> Note: `05_xgboost_and_recommendations.py` needs `pip3 install xgboost`, which
 > wasn't possible in the sandbox this project was built in (no internet
 > access there). `05_gbm_and_recommendations.py` is a fully working
 > stand-in using scikit-learn's `GradientBoostingClassifier` — same
