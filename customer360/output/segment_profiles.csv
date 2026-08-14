@@ -1,0 +1,6 @@
+segment,recency_days,frequency,monetary,clv_predicted,total_sessions,avg_csat,purchase_freq_per_year,customer_count,segment_name
+3,60.1,8.6,2231.0,1472.9,14.2,2.2,3.1,971,Champions
+4,145.7,4.0,1002.3,676.5,12.3,3.9,1.4,557,Loyal High-Value
+2,167.7,3.7,952.8,629.9,19.2,2.1,1.4,1146,Regular Customers
+1,165.5,3.0,738.7,478.4,7.6,2.1,1.1,1579,New / Occasional
+0,386.9,0.0,0.5,0.3,11.4,2.4,0.0,747,Lost / Dormant

@@ -1,0 +1,21 @@
+product_id,product_name,category,total_revenue,units_sold,avg_price,times_recommended
+P001,Wireless Earbuds Pro,Electronics,148375.09,1695,89.99,132
+P002,4K Smart TV 55in,Electronics,933800.08,1743,549.99,135
+P003,Running Shoes,Apparel,131587.13999999998,1691,79.99,220
+P004,Winter Jacket,Apparel,224271.30000000002,1773,129.99,174
+P005,Espresso Machine,Home & Kitchen,430219.81,1772,249.98999999999998,256
+P006,Air Fryer,Home & Kitchen,161548.41999999998,1661,99.99,100
+P007,Yoga Mat,Sports & Outdoors,52494.09,1791,29.990000000000002,899
+P008,Mountain Bike,Sports & Outdoors,794816.29,1774,459.99000000000007,34
+P009,Skincare Set,Beauty,105764.88,1813,59.99,357
+P010,Perfume,Beauty,122836.90999999999,1684,74.99,259
+P011,Bluetooth Speaker,Electronics,83890.23,1730,49.99,109
+P012,Laptop Backpack,Accessories,64477.420000000006,1661,39.99,0
+P013,Office Chair,Furniture,307346.43,1659,189.99,290
+P014,Standing Desk,Furniture,552983.74,1629,349.99,231
+P015,Board Game Set,Toys & Games,59801.0,1756,34.99,509
+P016,Kids Building Blocks,Toys & Games,79127.94,1806,44.99,425
+P017,Protein Powder,Health & Wellness,66406.92,1710,39.99,1
+P018,Smart Watch,Electronics,329393.11000000004,1694,199.98999999999998,266
+P019,Denim Jeans,Apparel,106053.51,1680,64.99,187
+P020,Cookware Set,Home & Kitchen,249965.39,1712,149.99,416

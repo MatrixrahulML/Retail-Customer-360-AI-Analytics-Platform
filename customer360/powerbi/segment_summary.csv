@@ -1,0 +1,6 @@
+segment,customer_count,avg_customer_value,total_revenue,avg_churn_probability,avg_purchase_frequency,high_risk_customers
+Champions,885,1490.8,1976645.27,0.08,8.74,35
+Regular Customers,1205,679.55,1206034.43,0.35,3.93,332
+New / Occasional,1585,474.02,1146040.15,0.35,2.88,443
+Loyal High-Value,550,661.63,565265.37,0.13,4.08,41
+Lost / Dormant,775,0.11,189.95,0.59,0.01,454
