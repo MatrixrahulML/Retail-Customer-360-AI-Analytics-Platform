@@ -66,14 +66,22 @@ customer360/
 ## How to run
 
 ```bash
-pip3 install pandas numpy scikit-learn matplotlib joblib xgboost
+git clone https://github.com/MatrixrahulML/Retail-Customer-360-AI-Analytics-Platform.git
+cd ~/Downloads/Retail-Customer-360-AI-Analytics-Platform/customer360
 
-python3 scripts/01_generate_data.py
-python3 scripts/02_etl_customer360.py
-python3 scripts/03_kmeans_segmentation.py
-python3 scripts/04_churn_models.py
-python3 scripts/05_xgboost_and_recommendations.py   # requires xgboost + internet
-python3 scripts/06_export_for_powerbi.py
+source venv/bin/activate
+
+python scripts/01_generate_data.py
+
+python scripts/02_etl_customer360.py
+
+python scripts/03_kmeans_segmentation.py
+
+python scripts/04_churn_models.py
+
+python scripts/05_xgboost_and_recommendations.py ## need xgboost and internet
+
+python scripts/06_export_for_powerbi.py
 ```
 
 > Note: `05_xgboost_and_recommendations.py` needs `pip3 install xgboost`, which
